@@ -50,7 +50,7 @@ Dê um duplo clique no arquivo index.html para abri-lo no navegador.
 O projeto será exibido imediatamente no seu navegador.
 
 
-###Referências  
+### Referências  
 - [SWAPI - The Star Wars API](https://swapi.dev/) - API utilizada para obter dados sobre o universo de Star Wars.  
 
 ### Créditos  
