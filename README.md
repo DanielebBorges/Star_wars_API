@@ -39,7 +39,7 @@ Clonando o Repositório Git: Se você tiver o Git instalado, pode clonar o repos
 Clone o projeto
 
 ```
-  git clone https://github.com/DanielebBorges/Star_wars_API 
+  git clone https://link-para-o-projeto
 ```
 
 Baixando o ZIP: Caso prefira, você pode baixar o projeto em formato ZIP e extrair para uma pasta local.
@@ -49,6 +49,13 @@ Navegue até a pasta onde você extraiu ou clonou os arquivos.
 Dê um duplo clique no arquivo index.html para abri-lo no navegador.
 O projeto será exibido imediatamente no seu navegador.
 
+
+###Referências  
+- [SWAPI - The Star Wars API](https://swapi.dev/) - API utilizada para obter dados sobre o universo de Star Wars.  
+
+### Créditos  
+- Estilização das estrelas no fundo baseada no projeto de [Cleyson Reinhold](https://cgreinhold.dev/2021/05/20/star-wars/).  
+ 
 ### Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:danielebabosaborges@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-borges-8182071aa/)
